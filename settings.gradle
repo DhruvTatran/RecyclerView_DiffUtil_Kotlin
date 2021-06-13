@@ -1,0 +1,2 @@
+rootProject.name = "RV_DiffUtil"
+include ':app'
